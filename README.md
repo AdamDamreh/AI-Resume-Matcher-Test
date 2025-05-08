@@ -158,11 +158,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Mobile application for on-the-go resume optimization
 - Employer portal with advanced analytics
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
-- Special thanks to the open-source AI and NLP communities
+- Thanks to Dr. Arun Ravindran for guiding this project and providing opportunities to apply knowledge through coursework. 
